@@ -1,8 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f7f7f7;
+    background-color: #fff;
 }
 
 header {
@@ -87,9 +85,9 @@ main {
 }
 
 .product button {
-    background-color: #007BFF;
+    background-color: #000;
     color: white;
-    border: none;
+    border: 5;
     padding: 10px 15px;
     border-radius: 5px;
     cursor: pointer;
